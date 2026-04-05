@@ -1,0 +1,24 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.container {
+    margin-top: 50px;
+}
+.links a {
+    display: block;
+    background: #1f1f1f;
+    color: #00ffcc;
+    padding: 15px;
+    margin: 10px auto;
+    width: 250px;
+    text-decoration: none;
+    border-radius: 8px;
+    border: 1px solid #00ffcc;
+}
+.links a:hover {
+    background: #00ffcc;
+    color: black;
+}
